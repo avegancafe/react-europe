@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./src/index.js","dynamic":true}],"generated":{"html":"<html>\n\n<head>\n\t<title>Parcel Sandbox</title>\n\t<meta charset=\"UTF-8\">\n</head>\n\n<body>\n\t<div id=\"app\"></div>\n\n\t<script src=\"/53f32859752145f8611ed3a6f45e65ef.js\"></script>\n</body>\n\n</html>"},"hash":"b4cbb96f3edaab8bcb1a13bf1850d1d1","cacheData":{}}
